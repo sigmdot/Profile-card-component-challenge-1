@@ -1,7 +1,12 @@
 body{
     min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .card-user{
-    height: 50vh;
+    height: 430px;
+    width:410px;
     border: 1px solid black;
+    border-radius: 20px;
 }
